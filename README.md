@@ -7,3 +7,5 @@ A simple issue tracker web application.
 - CSS
 - Bootstrap
 - JavaScript
+- jQuery
+- Chance.js
